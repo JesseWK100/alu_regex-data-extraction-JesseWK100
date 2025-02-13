@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+"""
+data_extraction.py
+
+This script demonstrates the use of regular expressions to validate and extract various types of data,
+such as email addresses, URLs, phone numbers, credit card numbers, and time formats.
+"""
+
 import re
 
 # -------------------------------
