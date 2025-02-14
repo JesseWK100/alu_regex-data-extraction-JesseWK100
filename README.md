@@ -23,7 +23,7 @@ The project serves as a part of the final assignment for a Junior Full Stack Dev
 
 1. Clone the Repository:
    
-   git clone https://github.com/YourUsername/alu_regex-data-extraction-YourUsername.git
+   git clone https://github.com/JesseWK100/alu_regex-data-extraction-JesseWK100.git
    cd alu_regex-data-extraction-YourUsername
 
 ## Code Documentation & Edge Cases
