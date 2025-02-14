@@ -24,7 +24,7 @@ The project serves as a part of the final assignment for a Junior Full Stack Dev
 1. Clone the Repository:
    
    git clone https://github.com/JesseWK100/alu_regex-data-extraction-JesseWK100.git
-   cd alu_regex-data-extraction-YourUsername
+   cd alu_regex-data-extraction-JesseWK100
 
 ## Code Documentation & Edge Cases
 Code Comments: The source code is thoroughly commented to explain regex choices and logic.
